@@ -24,8 +24,12 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+button:hover {
+   background-color: rgb(1, 112, 112);
+}
 
 #result {
     margin-top: 20px;
     font-size: 20px;
 }
+
